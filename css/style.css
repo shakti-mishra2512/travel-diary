@@ -1,0 +1,54 @@
+body {
+    background-color: #f8f3eb;
+    font-family: Georgia, serif;
+    color: #44372f;
+    margin: 0;
+}
+
+/* Navigation */
+.navbar {
+    background-color: #705747;
+}
+
+.navbar-brand {
+    font-size: 24px;
+}
+
+/* Home section */
+.hero {
+    background-color: #dfcbb5;
+    padding: 80px 20px;
+}
+
+.hero h1 {
+    font-size: 40px;
+}
+
+/* Country sections */
+.country {
+    background-color: white;
+    padding: 25px;
+    margin-bottom: 35px;
+    border-radius: 10px;
+}
+
+.country h2 {
+    color: #705747;
+    margin-bottom: 20px;
+}
+
+.country img {
+    width: 60%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: #705747;
+    color: white;
+    padding: 30px;
+    margin-top: 40px;
+}
