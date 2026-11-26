@@ -5,7 +5,7 @@ body {
     margin: 0;
 }
 
-/* Navigation */
+
 .navbar {
     background-color: #705747;
 }
@@ -14,7 +14,7 @@ body {
     font-size: 24px;
 }
 
-/* Home section */
+
 .hero {
     background-color: #dfcbb5;
     padding: 80px 20px;
@@ -24,7 +24,7 @@ body {
     font-size: 40px;
 }
 
-/* Country sections */
+
 .country {
     background-color: white;
     padding: 25px;
@@ -45,7 +45,6 @@ body {
     margin-bottom: 20px;
 }
 
-/* Footer */
 footer {
     background-color: #705747;
     color: white;
